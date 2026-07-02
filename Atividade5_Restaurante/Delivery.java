@@ -15,7 +15,7 @@ public class Delivery {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
 
-        System.out.println("=== SISTEMA DE COMPRAS ONLINE ===");
+        System.out.println("=== SISTEMA DE ENTREGAS DE RESTAURANTE ===");
 
         System.out.print("Digite o nome do cliente: ");
         String cliente = teclado.nextLine();
